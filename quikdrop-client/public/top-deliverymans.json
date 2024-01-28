@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1",
+    "name": "John Doe",
+    "image": "https://i.ibb.co/zxqh6jj/rony.jpg",
+    "parcel_delivered": 200,
+    "rating": 4.5
+  },
+  {
+    "_id": "2",
+    "name": "Jane Smith",
+    "image": "https://i.ibb.co/zxqh6jj/rony.jpg",
+    "parcel_delivered": 150,
+    "rating": 4.2
+  },
+  {
+    "_id": "3",
+    "name": "Sam Wilson",
+    "image": "https://i.ibb.co/zxqh6jj/rony.jpg",
+    "parcel_delivered": 180,
+    "rating": 4.7
+  },
+  {
+    "_id": "4",
+    "name": "Emma Brown",
+    "image": "https://i.ibb.co/zxqh6jj/rony.jpg",
+    "parcel_delivered": 220,
+    "rating": 4.4
+  },
+  {
+    "_id": "5",
+    "name": "Alex Johnson",
+    "image": "https://i.ibb.co/zxqh6jj/rony.jpg",
+    "parcel_delivered": 190,
+    "rating": 4.6
+  }
+]
